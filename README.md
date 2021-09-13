@@ -2,6 +2,7 @@
 
 - ⚡I’m currently pursuing a bachelor in electrical engineering   
 - :computer:I’m currently learning programming related things
+- :mailbox_with_mail:How to reach me: geralmers01@gmail.com
 
 ## Connect with me:
 
