@@ -5,12 +5,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/geraldiors">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p> <p align="left">
-<a href=https://shields.io/category/other">
+<a href="www.instagram.com/geraldio_rs">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white">
 </a>
 </p>
-
+[<img align="left" alt="https://www.linkedin.com/in/geraldiors" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />]
