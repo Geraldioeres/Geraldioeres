@@ -5,9 +5,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />][LinkedIn]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white" />][Instagram]
-[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />][Telegram]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&labelColor=blue" />][LinkedIn]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white" />][Instagram]
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white" />][Telegram]
 
 [LinkedIn]: https://www.linkedin.com/in/geraldiors
 [Instagram]: https://www.instagram.com/geraldio_rs
