@@ -9,5 +9,5 @@
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white" />][Instagram]
 
 [LinkedIn]: https://www.linkedin.com/in/geraldiors
-[Instagram]: www.instagram.com/geraldio_rs
+[Instagram]: https://www.instagram.com/geraldio_rs
 
