@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white">
 </a>
 </p>
-[<img align="left" alt="https://www.linkedin.com/in/geraldiors" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />]
+[<img align="left" alt="https://www.linkedin.com/in/geraldiors" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />][https://www.linkedin.com/in/geraldiors]
