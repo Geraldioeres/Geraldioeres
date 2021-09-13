@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
-<p align="center">
+<p align="left">
 <a href=https://shields.io/category/other">
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white">
 </a>
