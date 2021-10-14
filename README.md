@@ -4,6 +4,9 @@
 - :computer:Currently learning programming related things
 - :mailbox_with_mail:How to reach me: geralmers01@gmail.com
 
+<h2>Technologies That I Use</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="30" height="30" />
+
 ![Gerald's github stats](https://github-readme-stats.vercel.app/api?username=geraldioeres&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)
 
 ## Connect with me:
