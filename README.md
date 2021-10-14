@@ -11,9 +11,9 @@
 
 ## Connect with me:
 
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&labelColor=blue" />][LinkedIn]
-[<img align="left" src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white" />][Instagram]
-[<img align="left" src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white" />][Telegram]
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&labelColor=blue" width="50" height="30"/>][LinkedIn]
+[<img align="left" src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white" width="50" height="30"/>][Instagram]
+[<img align="left" src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white" width="50" height="30"/>][Telegram]
 
 [LinkedIn]: https://www.linkedin.com/in/geraldiors
 [Instagram]: https://www.instagram.com/geraldio_rs
