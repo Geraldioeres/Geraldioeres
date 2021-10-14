@@ -4,7 +4,7 @@
 - :computer:I’m currently learning programming related things
 - :mailbox_with_mail:How to reach me: geralmers01@gmail.com
 
-![Gerald's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)
+![Gerald's github stats](https://github-readme-stats.vercel.app/api?username=geraldioeres&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)
 
 ## Connect with me:
 
