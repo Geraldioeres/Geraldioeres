@@ -5,7 +5,7 @@
 - :mailbox_with_mail:How to reach me: geralmers01@gmail.com
 <br/>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldioeres&layout=compact&hide_title=1&card_width=300" alt="Languages used in my repositories" />
   <p>Languages used in my repositories</p>
 </div>
