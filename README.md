@@ -2,7 +2,7 @@
 
 - :man_technologist:I’m an Electrical Engineering student
 - :computer:Currently learning programming related things
-- :mailbox_with_mail:How to reach me: geralmers01@gmail.com
+- :mailbox_with_mail:How to reach me: geraldio.rs@gmail.com or geralmers01@gmail.com
 <br/>
 
 <div align="center">
